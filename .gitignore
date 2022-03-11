@@ -1,0 +1,6 @@
+.stack-work/
+*~
+.*.sw*
+JMDict*
+jmtest
+jmresult
